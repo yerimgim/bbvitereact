@@ -24,6 +24,5 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 - [Conventional Commits 1](https://www.conventionalcommits.org)
 - [editorconfig](https://editorconfig.org/)
 - [eslint 8](https://eslint.org/)
-- [husky 8](https://typicode.github.io/husky/#/)
 - [Prettier 2](https://prettier.io/)
 - [VS Code settings](https://code.visualstudio.com/)
